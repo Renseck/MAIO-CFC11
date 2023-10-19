@@ -1,4 +1,4 @@
-<h1 align = "center"> ProjectName </h1> <br>
+<h1 align = "center"> MAIO-CFC11 </h1> <br>
 
 ## Table of Contents
 
